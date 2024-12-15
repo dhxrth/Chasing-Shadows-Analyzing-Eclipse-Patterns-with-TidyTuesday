@@ -1,1 +1,0 @@
-# Chasing-Shadows-Analyzing-Eclipse-Patterns-with-TidyTuesday
